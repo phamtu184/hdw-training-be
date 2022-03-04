@@ -1,0 +1,56 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin"
+    }
+  ],
+  "cities": [
+    {
+      "code": "hcm",
+      "name": "TPHCM"
+    },
+    {
+      "code": "vl",
+      "name": "Vĩnh Long"
+    },
+    {
+      "code": "tv",
+      "name": "Trà Vinh"
+    },
+    {
+      "code": "la",
+      "name": "Long An"
+    }
+  ],
+  "employees": [
+    {
+      "name": "Victor2",
+      "gender": "male",
+      "birthDate": "Thu Mar 04 1993 22:23:21 GMT+0700",
+      "salary": 9999945,
+      "createdAt": 1646115796394,
+      "updatedAt": 1646321730667,
+      "id": 2
+    },
+    {
+      "salary": 5464565,
+      "birthDate": "Thu Mar 04 1993 22:23:21 GMT+0700",
+      "gender": "male",
+      "name": "sadsad",
+      "createdAt": 1646321010307,
+      "updatedAt": 1646363420884,
+      "id": 4
+    },
+    {
+      "salary": 456456,
+      "birthDate": "Thu Mar 09 1989 22:36:33 GMT+0700",
+      "gender": "male",
+      "name": "cscacxcz",
+      "createdAt": 1646321810449,
+      "updatedAt": 1646363424377,
+      "id": 5
+    }
+  ]
+}
